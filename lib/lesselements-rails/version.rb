@@ -1,5 +1,5 @@
 module Lesselements
   module Rails
-    VERSION = "0.7"
+    VERSION = "0.9"
   end
 end
